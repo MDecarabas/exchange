@@ -17,7 +17,7 @@ class App extends StatelessWidget {
 class HomePage extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
-    return new HomePageState();
+    return  HomePageState();
     }
   }
 class HomePageState extends State<HomePage> {
